@@ -93,12 +93,15 @@ jupyter notebook
 📊 Sample Outputs
 
 Predicted vs Actual plot
+<img width="475" height="80" alt="image" src="https://github.com/user-attachments/assets/b410c5c1-3d46-41c2-a038-340cd00f92cd" />
+
 
 Feature importance chart
 
 Correlation heatmap
 
-(Add images here later)
+<img width="1906" height="949" alt="image" src="https://github.com/user-attachments/assets/28946cc3-4689-414c-98f7-17ca7d7d9325" />
+
 
 🔮 Future Improvements
 
