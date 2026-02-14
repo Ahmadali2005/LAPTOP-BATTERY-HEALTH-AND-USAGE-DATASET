@@ -65,7 +65,7 @@ RMSE
 
 R² Score
 
-🏆 Results
+<img width="475" height="80" alt="image" src="https://github.com/user-attachments/assets/b410c5c1-3d46-41c2-a038-340cd00f92cd" />
 
 ✔ Random Forest achieved significantly higher R²
 ✔ Lower prediction error than Linear Regression
@@ -82,19 +82,9 @@ git clone <your-repo-url>
 cd laptop-battery-health-prediction
 pip install -r requirements.txt
 
-🚀 Usage
-python train_model.py
-
-
-or explore:
-
-jupyter notebook
-
 📊 Sample Outputs
 
 Predicted vs Actual plot
-<img width="475" height="80" alt="image" src="https://github.com/user-attachments/assets/b410c5c1-3d46-41c2-a038-340cd00f92cd" />
-
 
 Feature importance chart
 
